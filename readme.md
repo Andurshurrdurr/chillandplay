@@ -1,4 +1,4 @@
-# Chilloutandplay
+# Chillandplay
 
 Hi, this is a personal project for a simple automation of playing videofiles. I wanted to be able to push a button to autoplay my medialibrary where i left off or something like that.
 
@@ -15,7 +15,7 @@ Instructions on getting a local copy running on your system.
 
 1. Clone the repo and install the prerequisites
 2. Name the videofile Video1.WMV
-3. Run VLC telnet interface -> `$ vlc -I telnet --telnet-password YOUR PASS`
+3. Run VLC telnet interface -> `$ vlc -I telnet --telnet-password YOUR PASS`, or run the shell script after editing pass
 4. Run the python script and it will autoplay Video1.WMV!
 
 ## Development
